@@ -49,6 +49,8 @@ When done properly, RACiR facilitates rapid and robust estimates of Vcmax and Jm
 
 Included in this repository are two code files and three LI6800 data files. For the coding files, there is one R script and one R Markdown file. These are identical except for the additional notation required in R Markdown.
 
+The code was developed in R v. 3.3.3 (R Core Development Team, 2017) and RStudio v. 1.0.136 (RStudio Inc., 2016).
+
 
 # Data description
 
