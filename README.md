@@ -12,6 +12,8 @@ Email 2: josephstinziano@gmail.com
 
 ORCID: 0000-0002-7628-4201
 
+Twitter: @JosephStinziano
+
 
 # Terms
 
