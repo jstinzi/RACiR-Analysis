@@ -14,6 +14,12 @@ ORCID: 0000-0002-7628-4201
 
 Twitter: @JosephStinziano
 
+# Citation Information
+
+Please cite the use of this software as the following:
+
+Stinziano, Joseph Ronald. (2018, May 23). RACiR Analysis (Version v1.0.0). Zenodo. http://doi.org/10.5281/zenodo.1251925
+
 
 # Terms
 
