@@ -3,9 +3,13 @@ Coding for correcting rapid A/Ci response (RACiR) data using R.
 
 
 # Contact Information
+
 Author: Joseph Ronald Stinziano
+
 Email 1: jstinziano@unm.edu
+
 Email 2: josephstinziano@gmail.com
+
 ORCID: 0000-0002-7628-4201
 
 
