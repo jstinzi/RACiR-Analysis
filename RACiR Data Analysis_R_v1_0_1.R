@@ -1,11 +1,13 @@
 #RACiR Data Analysis in R
 #Author: Joseph Ronald Stinziano
-#2018-07-27
+#2018-09-10
 #
 #Contact Information
 #jstinziano@unm.edu
 #josephstinziano@gmail.com
 #ORCID: 0000-0002-7628-4201
+#
+#RACiR is a trademark of LI-COR Biosciences, and used with permission.
 #
 #Need file name, check number of lines to be skipped to data start
 #Check output for licor to make sure headers match
@@ -121,24 +123,4 @@ write.csv(compileddata,"File Name.csv") #!!!
 #END OF CODE
 #
 
-#MIT License
-
-#Copyright (c) [2018] [Joseph Ronald Stinziano]
-
-#Permission is hereby granted, free of charge, to any person obtaining a copy
-#of this software and associated documentation files (the "Software"), to deal
-#in the Software without restriction, including without limitation the rights
-#to use, copy, modify, merge, publish, distribute, sublicense, and/or sell
-#copies of the Software, and to permit persons to whom the Software is
-#furnished to do so, subject to the following conditions:
-
-#The above copyright notice and this permission notice shall be included in all
-#copies or substantial portions of the Software.
-
-#THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR
-#IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY,
-#FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
-#AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
-#LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
-#OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-#SOFTWARE.
+#License CC-BY-SA 4.0
