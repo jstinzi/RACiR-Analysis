@@ -18,7 +18,7 @@ Twitter: @JosephStinziano
 
 Please cite the use of this software as the following:
 
-Stinziano, Joseph Ronald. (2018, July 27). RACiR Analysis (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.1322758
+Stinziano, Joseph Ronald. (2018, September 10). RACiR Analysis (Version v1.0.2). Zenodo. http://doi.org/10.5281/zenodo.1412794
 
 
 # Terms
